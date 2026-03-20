@@ -2,7 +2,13 @@
 
 
 ## 📃 Descripción General
-Este proyecto fue elaborado con información ficticia de un supermercado. Se empleó una base de datos remota alojada en Supabase; para la parte gráfica se empleó "tooltips", menú de navegación interactivo, y switcher para modo noche/día.
+Dashboard interactivo de ventas de supermercado desarrollado en Power BI, diseñado para analizar el rendimiento comercial de múltiples sucursales en tiempo real.
+Este proyecto conecta una base de datos remota en Supabase (PostgreSQL) y transforma los datos en información accionable mediante:
+- 📊 5 Vistas Analíticas: Overview, Branch, Customer, Seller y Products.
+- 🌙 Modo Claro/Oscuro: Switcher interactivo para personalizar la visualización.
+- 🖱️ Navegación Interactiva: Menú dinámico, tooltips y marcadores.
+- 📈 KPIs Avanzados: +25 medidas DAX (ventas, presupuesto, clientes, tendencias).
+- 🎯 Seguimiento de Metas: Comparativa Ventas vs Presupuesto con alertas visuales.
 
 
 ## 📊 Contenido del proyecto
